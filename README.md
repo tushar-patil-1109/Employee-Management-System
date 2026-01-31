@@ -20,13 +20,13 @@
 
 ## 🛠️ Technologies Used
 
-- Technology  |    Description
+- Technology    |    Description
   ------------------------------------
-- Java Core   |    programming language
-- Swing & AWT |    GUI development
-- JDBC        |    Database connectivity
-- MySQL       |    Backend database
-- NetBeans    |    IDE Development environment
+- Java Core       |        programming language
+- Swing & AWT     |        GUI development
+- JDBC            |        Database connectivity
+- MySQL           |        Backend database
+- NetBeans        |        IDE Development environment
 
 ---
 
@@ -77,7 +77,7 @@ Employee-Management-System
 
 ## 🗄️ Database Details
 
-### Database Name: employeemanagementsystem
+### - Database Name: employeemanagementsystem
 
 - Sample Table Structure
 ```text
@@ -102,18 +102,17 @@ CREATE TABLE employee (
 
 ## ▶️ How to Run the Project (NetBeans)
 
-- 1.Download or clone the repository
-- 2.Open NetBeans IDE
-- 3.Click File → Open Project
-- 4.Select the Employee-Management-System folder
-- 5.Configure MySQL database
-- 6.Run Splash.java or Login.java
+- 1. Download or clone the repository
+- 2. Open NetBeans IDE
+- 3. Click File → Open Project
+- 4. Select the Employee-Management-System folder
+- 5. Configure MySQL database
+- 6. Run Splash.java or Login.java
 
 ---
 
 ## 📸 Appication Screenshots 
 
-<br> <br>
 ### Start Page
 <img width="600" height="400" alt="Screenshot 2026-01-31 162216" src="https://github.com/user-attachments/assets/69752da0-2cd3-4740-8857-75ffd287b309" />
 <br> <br>
